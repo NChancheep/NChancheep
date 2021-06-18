@@ -7,6 +7,6 @@
 ⚡ Fun fact: I love to reading the novel and watching an anime  <br/>
 
 🎧 Now I listening to 🎧 <br/>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21gnlwruhkvxw3omz3fx34ngq&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify](https://spotify-github-profile.vercel.app/api/view?uid=21gnlwruhkvxw3omz3fx34ngq&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
-[![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=NChancheep)](https://github.com/NChancheep)
+[![github_stat](https://github-readme-stats.vercel.app/api?username=NChancheep&count_private=true)](https://github.com/NChancheep)
