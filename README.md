@@ -9,4 +9,5 @@
 🎧 Now I listening to 🎧 <br/>
 [![spotify](https://spotify-github-profile.vercel.app/api/view?uid=21gnlwruhkvxw3omz3fx34ngq&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
-[![github_stat](https://github-readme-stats.vercel.app/api?username=NChancheep&count_private=true)](https://github.com/NChancheep)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NChancheep&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
