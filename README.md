@@ -10,5 +10,4 @@
 
 [![MY GitHub stats](https://github-readme-stats.vercel.app/api?username=NChancheep&count_private=true&show_icons=true&title_color=FFFFFF&icon_color=FFFB00&text_color=FFFFFF&bg_color=DEG,42275A,734B6D&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NChancheep&title_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,734B6D,42275A&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card1](https://github-readme-stats.vercel.app/api/pin/?username=NChancheep&repo=WebprojectPhase3&hide_border=true&title_color=FFFFFF&icon_color=FFFB00&text_color=FFFFFF&bg_color=DEG,42275A,734B6D)](https://github.com/NChancheep/WebprojectPhase3)
-[![Readme Card2](https://github-readme-stats.vercel.app/api/pin/?username=NChancheep&repo=c_project&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFB00&bg_color=DEG,734B6D,42275A&hide_border=true)](https://github.com/NChancheep/c_project)
+
